@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi! 👋 I´m Artur
+Python-Developer
 
-<!--
-**ArturVafin1999/ArturVafin1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My skills:
+Python, OOP, Algorithm
+Telegram Bots, Pyrogram
+PyGame
+SQL
+Flask, REST API
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Projects:
+Telegram Nubmle: https://github.com/ArturVafin1999/Numble
+Jump-N-Run: https://github.com/ArturVafin1999/Jump-n-Run
